@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    alert("⚠️ Peringatan! Konten ini mengandung informasi penting mengenai bahaya video porno.");
+    alert("⚠️ PERINGATAN AKUN ANDA SAAT INI SEDANG DALAM PROSES DI  MASUKKAN KE DATABASE MILIK SERVER WEB DAN JIKA BERHASIL DI MASUKKAN DI DALAM DATABASE PIHAK KE TIGA BISA MENCARI DATA PRIBADI ANDA TOLONG KEMBALI ");
 });
